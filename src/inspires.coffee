@@ -1,5 +1,5 @@
 # Description:
-#   Pugme is the most important thing in life
+#   Hubot Inspire is inspirational
 #
 # Dependencies:
 #   None
