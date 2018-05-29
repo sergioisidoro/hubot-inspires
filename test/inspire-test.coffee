@@ -13,4 +13,4 @@ describe 'inspire', ->
     require('../src/inspires')(@robot)
 
   it 'registers a respond listener', ->
-    expect(@robot.respond).to.have.been.calledWith(/inspire me/)
+    expect(@robot.respond).to.have.been.calledWith(/inspire me/i)
