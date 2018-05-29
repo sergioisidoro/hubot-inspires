@@ -18,4 +18,5 @@ Then add **hubot-inspires** to your `external-scripts.json`:
 
 ## Acknowlegements 
 This was a shameless edit from https://github.com/hubot-scripts/hubot-pugme
+
 Go add that package for amazing pegg... pugging ! 
