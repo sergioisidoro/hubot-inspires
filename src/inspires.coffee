@@ -13,6 +13,6 @@
 module.exports = (robot) ->
 
   robot.respond /inspire me/i, (msg) ->
-    msg.http("http://inspirobot.me/api?generate=true")
+    msg.http("https://inspirobot.me/api?generate=true")
       .get() (err, res, body) ->
         msg.send body
